@@ -1,0 +1,8 @@
+D:\_Desktop\reversisharp\reversisharp\bin\Release\reversisharp.exe.config
+D:\_Desktop\reversisharp\reversisharp\bin\Release\reversisharp.exe
+D:\_Desktop\reversisharp\reversisharp\bin\Release\reversisharp.pdb
+D:\_Desktop\reversisharp\reversisharp\obj\Release\reversisharp.GameWindow.resources
+D:\_Desktop\reversisharp\reversisharp\obj\Release\reversisharp.Properties.Resources.resources
+D:\_Desktop\reversisharp\reversisharp\obj\Release\reversisharp.csproj.GenerateResource.Cache
+D:\_Desktop\reversisharp\reversisharp\obj\Release\reversisharp.exe
+D:\_Desktop\reversisharp\reversisharp\obj\Release\reversisharp.pdb
